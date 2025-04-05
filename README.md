@@ -1,7 +1,7 @@
 <!-- # ¡Hola, gracias por visitarme! 👨💻   -->
-<img src="img.png">
+<img src="img2.png">
 
-## Sobre mí  
+## 📌 Sobre mí  
 Desarrollador Java en continua formación, autodidacta por naturaleza y comprometido con convertirme en experto en Spring Boot y arquitecturas backend. Combino mis conocimientos en frontend (HTML, CSS, JavaScript) para aportar una visión integral al desarrollo de aplicaciones.
 
 Mi filosofía de código: **limpio, legible, optimizado, mantenible y escalable**, siempre aplicando buenas prácticas y patrones de diseño sólidos.
