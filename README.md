@@ -1,4 +1,4 @@
-<img src="img.png">
+<img src="imagen.png">
 
  #### Desarrollador Backend Jr. especializado en Java y Spring Boot en constante crecimiento con una fuerte inclinación hacia el backend. Me inspira la creación de código que no solo funcione, sino que también sea limpio, legible y escalable, siempre buscando la forma más eficiente y elegante de resolver problemas.
  
